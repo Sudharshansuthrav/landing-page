@@ -30,8 +30,6 @@ This is a modern, responsive Landing Page designed using HTML, CSS, and JavaScri
    ```
 3. Open `index.html` in your browser to view the landing page.
 
-## 📸 Screenshots
-(Add screenshots here if available)
 
 ## 📜 License
 This project is open-source and available under the [MIT License](LICENSE).
